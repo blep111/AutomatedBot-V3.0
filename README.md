@@ -12,7 +12,7 @@
 - Auto-replies and smart responses
 - Mini-games and utilities
 - Admin role controls and protected commands
-- Toggleable modes (vernmode, autoreact, etc.)
+- Toggleable modes (auto-reply, autoreact, etc.)
 - Local JSON storage for configs/data
 - Scheduled messages and automated replies
 - Hot-reload module system (no restart required)
