@@ -1,27 +1,27 @@
-# 🚀 AUTOMATEDBOT‑V3.0
-*New Released Automated Bot (2026)* — The ultimate **modular, lightning‑fast Messenger automation framework** built with `ws3‑fca` for power users, admins, and developers. ([github.com](https://github.com/vernesg/AutomatedBot-V3.0))
+# AUTOMATEDBOT‑V3.0
+*Automated Messenger Bot Framework*
 
-![Autobot Hero](https://raw.githubusercontent.com/vernesg/AutomatedBot-V3.0/main/public/hero.png)
-
----
-
-## 🎉 Features ✨
-
-✔ Login via **Facebook cookies** — no email/password needed  
-✔ Modular **custom commands** & plugins  
-✔ **Auto‑replies & smart responses**  
-✔ **Mini‑games & utilities** for interaction  
-✔ **Admin role controls & protected commands**  
-✔ Toggleable modes (*vernmode, autoreact, etc.*)  
-✔ Local **JSON storage** for configs/data  
-✔ **Scheduled messages** & automated replies  
-✔ **Hot‑reload module system** — no restart needed
+![Bot Background](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycW5zbjhyNGkxYThsZWZlaWFkYXFrdm8xemR5c2k3NmJoYnJpN3ZjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif)
 
 ---
 
-## 📦 Installation & Setup
+## Features
 
-### 1️⃣ Clone the Repository
+- Login via Facebook cookies (no email/password required)
+- Modular custom commands and plugins
+- Auto-replies and smart responses
+- Mini-games and utilities
+- Admin role controls and protected commands
+- Toggleable modes (vernmode, autoreact, etc.)
+- Local JSON storage for configs/data
+- Scheduled messages and automated replies
+- Hot-reload module system (no restart required)
+
+---
+
+## Installation & Setup
+
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/vernesg/AutomatedBot-V3.0.git
 cd AutomatedBot-V3.0
